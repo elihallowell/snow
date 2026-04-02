@@ -1,0 +1,109 @@
+resort_name,resort_type,location,last_24hr_snow,prev_1_5_days,prev_6_10_days,prev_11_15_days,next_1_5_days,next_6_10_days,next_11_15_days,latitude,longitude,forecast_updated_at
+3 Zinnen (3 Peaks) Dolomites,Ikon,"Bolzano, Italy",0.0,3,0,8,4,8,8,46.7127,12.3641,2026-02-19 17:13:57+00:00
+Alpe di Siusi,Ikon,"Bolzano, Italy",0.0,3,0,4,2,6,7,46.5312,11.6258,2026-02-19 16:25:17+00:00
+Alpental at Snoqualmie,Ikon,"Washington, United States",3.0,8,3,0,8,31,14,47.4361,-121.4354,2026-02-19 16:06:50+00:00
+Alyeska,Ikon,"Alaska, United States",2.0,6,6,10,0,4,7,60.9604,-149.0908,2026-02-19 16:19:10+00:00
+Appi Kogen,Ikon,"Iwate, Japan",6.0,6,8,10,1,12,8,39.9882,140.962,2026-02-19 17:06:16+00:00
+Arabba,Ikon,"Belluno, Italy",0.0,4,0,10,3,6,8,46.4842,11.8729,2026-02-19 17:00:54+00:00
+Arapahoe Basin,Ikon,"Colorado, United States",1.0,7,5,2,3,8,8,39.6324,-105.871,2026-02-19 17:13:57+00:00
+Banff Sunshine,Ikon,"Alberta, Canada",0.0,10,2,3,2,7,5,51.0924,-115.7667,2026-02-19 16:18:14+00:00
+Bear Mountain,Ikon,"California, United States",0.0,33,0,0,4,0,0,34.2186,-116.8604,2026-02-19 16:24:32+00:00
+Big Sky,Ikon,"Montana, United States",2.0,17,1,4,2,5,2,45.2811,-111.4302,2026-02-19 16:06:54+00:00
+Blue Mountain,Ikon,"Ontario, Canada",7.0,7,4,1,7,6,8,44.5038,-80.3206,2026-02-19 16:24:28+00:00
+Blue Mountain,Ikon,"Pennsylvania, United States",0.0,3,0,4,5,3,2,40.8128,-75.5116,2026-02-19 16:00:34+00:00
+Boyne Mountain,Ikon,"Michigan, United States",0.0,0,1,0,4,6,6,45.1625,-84.9375,2026-02-19 17:07:03+00:00
+Brighton,Ikon,"Utah, United States",22.0,41,14,0,2,15,4,40.5898,-111.5728,2026-02-19 17:01:34+00:00
+Camelback,Ikon,"Pennsylvania, United States",0.0,2,0,0,6,6,2,41.0445,-75.3525,2026-02-19 16:00:11+00:00
+Carezza,Ikon,"Bolzano, Italy",0.0,2,0,5,2,5,7,46.4126,11.6053,2026-02-19 16:30:42+00:00
+Cervino Ski Paradise,Ikon,"Valle d'Aosta, Italy",2.0,50,25,5,3,6,17,45.9462,7.6931,2026-02-19 16:24:11+00:00
+Chamonix,Ikon,"Haute-Savoie, France",6.0,74,63,9,14,13,7,45.8859,6.9339,2026-02-19 17:13:25+00:00
+Civetta,Ikon,"Belluno, Italy",0.0,3,1,12,4,9,9,46.4153,12.0686,2026-02-19 17:13:58+00:00
+Copper Mountain,Ikon,"Colorado, United States",2.0,8,5,1,3,8,8,39.4807,-106.1592,2026-02-19 16:36:41+00:00
+Coronet Peak,Ikon,"Otago, New Zealand",,0,0,0,0,0,0,-44.9214,168.737,2026-02-19 15:49:05+00:00
+Cortina,Ikon,"Belluno, Italy",0.0,3,1,8,3,9,9,46.5401,12.0905,2026-02-19 16:01:00+00:00
+Corvara (Alta Badia),Ikon,"Bolzano, Italy",0.0,5,0,7,3,8,7,46.5491,11.8987,2026-02-19 16:30:45+00:00
+Crystal Mountain,Ikon,"Washington, United States",1.0,7,2,4,19,23,10,46.9294,-121.4944,2026-02-19 15:54:44+00:00
+Cypress Mountain,Ikon,"British Columbia, Canada",1.0,16,15,1,11,23,15,49.4001,-123.1979,2026-02-19 17:07:21+00:00
+Eldora,Ikon,"Colorado, United States",1.0,6,2,0,2,3,6,39.9369,-105.5899,2026-02-19 16:12:40+00:00
+Espace San Bernardo,Ikon,"Valle d'Aosta, Italy",8.0,51,45,8,7,10,7,45.694,6.9081,2026-02-19 16:07:02+00:00
+Furano,Ikon,"Hokkaidô, Japan",1.0,6,19,9,3,3,11,43.3315,142.3318,2026-02-19 15:55:42+00:00
+Grands Montets,Ikon,"Haute-Savoie, France",8.0,34,84,6,13,14,6,45.9597,6.9423,2026-02-19 17:13:16+00:00
+Grandvalira,Ikon,"Encamp, Andorra",3.0,18,14,7,4,4,6,42.5538,1.6609,2026-02-19 16:43:02+00:00
+Hoshino Resorts Nekoma Mountain,Ikon,"Hukusima, Japan",4.0,4,8,8,0,0,4,37.6027,140.0359,2026-02-19 16:36:35+00:00
+Jackson Hole,Ikon,"Wyoming, United States",6.0,21,26,2,1,11,6,43.5934,-110.8523,2026-02-19 16:42:55+00:00
+June Mountain,Ikon,"California, United States",2.0,51,37,0,8,17,0,37.7441,-119.0698,2026-02-19 16:49:01+00:00
+Killington,Ikon,"Vermont, United States",0.0,1,8,6,10,5,9,43.6107,-72.8113,2026-02-19 16:54:04+00:00
+Kirchberg,Ikon,"Tirol, Austria",0.0,19,1,1,14,5,4,47.4281,12.3535,2026-02-19 15:55:35+00:00
+Kitzbühel,Ikon,"Tirol, Austria",0.0,18,1,0,11,3,2,47.4623,12.4074,2026-02-19 15:55:35+00:00
+Kronplatz,Ikon,"Bolzano, Italy",0.0,2,0,4,3,5,7,46.7393,11.9672,2026-02-19 16:31:03+00:00
+La Thuile,Ikon,"Valle d'Aosta, Italy",5.0,45,50,7,6,10,6,45.693,6.9301,2026-02-19 16:48:46+00:00
+Lake Louise,Ikon,"Alberta, Canada",0.0,10,0,2,2,9,8,51.4536,-116.1388,2026-02-19 17:18:55+00:00
+Le Tour,Ikon,"Haute-Savoie, France",0.0,34,51,2,9,10,4,46.0084,6.9612,2026-02-19 16:01:22+00:00
+Les Houches,Ikon,"Haute-Savoie, France",3.0,46,38,4,9,5,3,45.8829,6.7656,2026-02-19 16:06:28+00:00
+Loon Mountain,Ikon,"New Hampshire, United States",0.0,0,8,3,6,6,8,44.0434,-71.6285,2026-02-19 16:31:03+00:00
+Lotte Arai,Ikon,"Niigata, Japan",8.0,15,20,54,0,0,17,36.992,138.1499,2026-02-19 16:43:03+00:00
+Mammoth Mountain,Ikon,"California, United States",9.0,61,24,0,12,24,0,37.6368,-119.0246,2026-02-19 16:42:59+00:00
+Megeve,Ikon,"Haute-Savoie, France",4.0,51,46,6,13,9,3,45.8504,6.6696,2026-02-19 16:06:28+00:00
+Mittersill,Ikon,"Tirol, Austria",0.0,18,1,2,16,6,5,47.3125,12.3773,2026-02-19 16:00:50+00:00
+Mona Yongpyong,Ikon,"Gang'weondo, South Korea",0.0,2,0,0,1,11,9,37.6351,128.6833,2026-02-19 16:01:26+00:00
+Mont Tremblant,Ikon,"Quebec, Canada",0.0,0,10,5,1,10,15,46.2192,-74.5693,2026-02-19 17:06:04+00:00
+Monterosa Ski,Ikon,"Valle d'Aosta, Italy",1.0,13,12,3,0,2,11,45.7657,7.7605,2026-02-19 16:30:43+00:00
+Mt Buller ,Ikon,"Victoria, Australia",0.0,0,0,0,0,0,0,-37.1432,146.444,2026-02-19 16:48:33+00:00
+Mt Hutt,Ikon,"Canterbury, New Zealand",,4,1,0,0,1,0,-43.4908,171.5354,2026-02-19 16:07:05+00:00
+Mt. Bachelor,Ikon,"Oregon, United States",3.0,15,2,9,9,16,4,43.9907,-121.6815,2026-02-19 16:12:57+00:00
+Mt. Norquay Banff,Ikon,"Alberta, Canada",0.0,10,0,0,2,4,2,51.201,-115.6067,2026-02-19 17:13:22+00:00
+Myoko Suginohara,Ikon,"Niigata, Japan",11.0,14,17,33,0,0,15,36.867,138.1311,2026-02-19 16:30:14+00:00
+Niseko Annupuri,Ikon,"Hokkaidô, Japan",0.0,0,16,20,3,2,16,42.8629,140.6561,2026-02-19 16:30:10+00:00
+Niseko Grand Hirafu,Ikon,"Hokkaidô, Japan",0.0,8,28,20,3,2,16,42.8688,140.6823,2026-02-19 16:30:14+00:00
+Niseko Hanazono,Ikon,"Hokkaidô, Japan",8.0,23,24,16,3,2,18,42.881,140.6775,2026-02-19 16:30:10+00:00
+Niseko Village,Ikon,"Hokkaidô, Japan",10.0,18,24,25,3,2,16,42.8558,140.6697,2026-02-19 16:36:05+00:00
+Palisades Tahoe,Ikon,"California, United States",21.0,97,9,0,16,13,0,39.1855,-120.2574,2026-02-19 16:48:04+00:00
+Panorama Mountain Resort,Ikon,"British Columbia, Canada",0.0,6,0,1,4,7,5,50.4404,-116.2241,2026-02-19 15:37:17+00:00
+Passo Rolle,Ikon,"Trento, Italy",0.0,3,1,18,3,8,11,46.29,11.7855,2026-02-19 16:37:05+00:00
+Pico,Ikon,"Vermont, United States",0.0,1,10,11,9,5,9,43.648,-72.8393,2026-02-19 16:30:14+00:00
+Red Mountain Resort,Ikon,"British Columbia, Canada",0.0,8,4,2,7,11,5,49.1028,-117.8407,2026-02-19 17:19:04+00:00
+Revelstoke,Ikon,"British Columbia, Canada",1.0,14,7,13,3,18,14,50.9638,-118.1175,2026-02-19 17:18:03+00:00
+Schweitzer,Ikon,"Idaho, United States",11.0,28,7,0,10,17,11,48.3767,-116.6225,2026-02-19 17:12:24+00:00
+Shiga Kogen Bunadaira,Ikon,"Nagano, Japan",6.0,6,13,19,0,0,8,36.7203,138.5058,2026-02-19 16:18:38+00:00
+Shiga Kogen Giant,Ikon,"Nagano, Japan",5.0,5,14,19,0,0,8,36.7163,138.4974,2026-02-19 16:06:05+00:00
+Shiga Kogen Hasuike,Ikon,"Nagano, Japan",5.0,5,14,16,0,0,8,36.7143,138.4919,2026-02-19 16:06:09+00:00
+Shiga Kogen Higashitateyama,Ikon,"Nagano, Japan",5.0,5,15,15,0,1,9,36.7262,138.516,2026-02-19 16:06:10+00:00
+Shiga Kogen Ichinose Diamond,Ikon,"Nagano, Japan",6.0,6,17,17,0,0,8,36.7396,138.5096,2026-02-19 16:06:10+00:00
+Shiga Kogen Ichinose Family,Ikon,"Nagano, Japan",5.0,5,15,15,0,1,9,36.7349,138.5194,2026-02-19 16:06:14+00:00
+Shiga Kogen Ichinose Yamanokami,Ikon,"Nagano, Japan",6.0,6,17,16,0,0,8,36.7437,138.5066,2026-02-19 16:06:14+00:00
+Shiga Kogen Kidoike,Ikon,"Nagano, Japan",4.0,4,13,14,0,1,9,36.6925,138.4968,2026-02-19 16:06:14+00:00
+Shiga Kogen Kumanoyu,Ikon,"Nagano, Japan",3.0,3,11,14,0,2,9,36.6772,138.4962,2026-02-19 16:18:38+00:00
+Shiga Kogen Maruike,Ikon,"Nagano, Japan",5.0,5,14,18,0,0,8,36.715,138.4894,2026-02-19 16:06:19+00:00
+Shiga Kogen Nishitateyama,Ikon,"Nagano, Japan",6.0,6,14,18,0,0,8,36.7274,138.5001,2026-02-19 16:06:19+00:00
+Shiga Kogen Okushiga Kogen,Ikon,"Nagano, Japan",6.0,7,16,17,0,1,10,36.7719,138.5157,2026-02-19 16:36:22+00:00
+Shiga Kogen Shibutoge,Ikon,"Gunma, Japan",2.0,2,9,11,0,8,8,36.6684,138.5316,2026-02-19 16:36:31+00:00
+Shiga Kogen Sun Valley,Ikon,"Nagano, Japan",5.0,5,14,19,0,0,8,36.715,138.4851,2026-02-19 16:00:38+00:00
+Shiga Kogen Takamagahara Mammoth,Ikon,"Nagano, Japan",5.0,5,16,15,0,1,9,36.7298,138.5137,2026-02-19 16:06:19+00:00
+Shiga Kogen Tannenomori Okojo,Ikon,"Nagano, Japan",6.0,6,15,16,0,0,9,36.7332,138.5152,2026-02-19 16:36:28+00:00
+Shiga Kogen Terakoya,Ikon,"Nagano, Japan",4.0,4,16,13,0,4,10,36.7282,138.529,2026-02-19 16:06:19+00:00
+Shiga Kogen Yakebitaiyama,Ikon,"Nagano, Japan",6.0,6,17,15,0,2,9,36.7566,138.5185,2026-02-19 16:06:23+00:00
+Shiga Kogen Yokoteyama,Ikon,"Nagano, Japan",4.0,4,11,15,0,2,8,36.6817,138.503,2026-02-19 16:18:39+00:00
+Sierra-at-Tahoe,Ikon,"California, United States",18.0,79,11,0,13,9,0,38.7935,-120.0807,2026-02-19 16:48:52+00:00
+Snow Summit,Ikon,"California, United States",0.0,33,0,0,4,0,0,34.2251,-116.8889,2026-02-19 16:30:54+00:00
+Snowbird,Ikon,"Utah, United States",34.0,48,11,0,2,15,5,40.5665,-111.6523,2026-02-19 17:07:14+00:00
+Snowshoe,Ikon,"West Virginia, United States",0.0,0,0,6,6,6,2,38.4157,-79.9952,2026-02-19 16:00:55+00:00
+Solitude,Ikon,"Utah, United States",17.0,40,12,0,2,12,3,40.6163,-111.6032,2026-02-19 17:07:49+00:00
+Steamboat,Ikon,"Colorado, United States",4.0,13,15,0,5,17,5,40.4537,-106.7587,2026-02-19 16:00:16+00:00
+Stratton,Ikon,"Vermont, United States",0.0,1,12,4,13,6,10,43.103,-72.9097,2026-02-19 16:06:19+00:00
+Sugarbush,Ikon,"Vermont, United States",0.0,3,12,7,8,4,6,44.1289,-72.9195,2026-02-19 16:06:31+00:00
+Sugarloaf,Ikon,"Maine, United States",0.0,3,6,2,5,5,6,45.035,-70.3145,2026-02-19 17:13:52+00:00
+Summit Central at Snoqualmie,Ikon,"Washington, United States",3.0,5,4,0,6,27,11,47.4018,-121.4217,2026-02-19 16:01:23+00:00
+Summit East at Snoqualmie,Ikon,"Washington, United States",3.0,5,4,0,3,21,9,47.3885,-121.4023,2026-02-19 15:55:41+00:00
+Summit West at Snoqualmie,Ikon,"Washington, United States",3.0,5,4,0,5,24,10,47.4219,-121.4204,2026-02-19 15:54:56+00:00
+Sun Peaks Resort,Ikon,"British Columbia, Canada",0.0,4,10,2,2,7,5,50.9,-119.8803,2026-02-19 16:13:25+00:00
+Sun Valley,Ikon,"Idaho, United States",0.0,18,0,4,0,9,0,43.6651,-114.3972,2026-02-19 16:54:04+00:00
+Sunday River,Ikon,"Maine, United States",0.0,0,5,3,7,4,7,44.46,-70.8738,2026-02-19 16:54:34+00:00
+Taos,Ikon,"New Mexico, United States",2.0,5,7,0,6,0,2,36.5823,-105.4517,2026-02-19 16:42:48+00:00
+The Highlands,Ikon,"Michigan, United States",2.0,2,1,0,6,6,7,45.4716,-84.944,2026-02-19 16:54:04+00:00
+The Remarkables,Ikon,"Otago, New Zealand",,0,1,0,2,1,0,-45.0589,168.8132,2026-02-19 16:30:25+00:00
+Thredbo,Ikon,"New South Wales, Australia",0.0,0,0,0,0,0,0,-36.4929,148.301,2026-02-19 15:49:03+00:00
+Valle Nevado,Ikon,"Regíon Metropolitana de Santiago, Chile",0.0,0,0,0,0,0,0,-33.3404,-70.2495,2026-02-19 16:42:49+00:00
+Winter Park,Ikon,"Colorado, United States",4.0,6,6,0,4,8,6,39.8631,-105.7736,2026-02-19 16:48:19+00:00
+Yunding Snow Park,Ikon,"Hebei, China",0.0,0,0,0,0,2,4,40.9652,115.3066,2026-02-19 16:55:13+00:00
+Zao Onsen,Ikon,"Yamagata, Japan",4.0,4,6,10,0,3,3,38.1496,140.4045,2026-02-19 16:48:39+00:00
+Zermatt,Ikon,"Wallis, Switzerland",0.0,6,1,1,2,7,14,45.9935,7.7563,2026-02-19 16:48:09+00:00

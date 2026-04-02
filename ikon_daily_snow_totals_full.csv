@@ -1,0 +1,109 @@
+resort_name,location,last_24hr_snow,prev_1_5_days,prev_6_10_days,prev_11_15_days,next_1_5_days,next_6_10_days,next_11_15_days,latitude,longitude,forecast_updated_at
+3 Zinnen (3 Peaks) Dolomites,"Bolzano, Italy",0.0,6,6,0,7,1,6,46.7127,12.3641,2026-03-24 13:36:43+00:00
+Alpe di Siusi,"Bolzano, Italy",0.0,7,14,0,7,0,2,46.5312,11.6258,2026-03-24 12:49:10+00:00
+Alpental at Snoqualmie,"Washington, United States",0.0,0,4,66,8,8,5,47.4361,-121.4354,2026-03-24 13:32:33+00:00
+Alyeska,"Alaska, United States",0.0,12,3,0,0,0,7,60.9604,-149.0908,2026-03-24 12:24:30+00:00
+Appi Kogen,"Iwate, Japan",0.0,6,1,0,0,0,3,39.9882,140.962,2026-03-24 13:14:08+00:00
+Arabba,"Belluno, Italy",0.0,4,10,0,10,1,7,46.4842,11.8729,2026-03-24 13:18:16+00:00
+Arapahoe Basin,"Colorado, United States",0.0,0,4,4,0,2,1,39.6324,-105.871,2026-03-24 13:12:46+00:00
+Banff Sunshine,"Alberta, Canada",0.0,7,10,18,13,5,2,51.0924,-115.7667,2026-03-24 12:30:37+00:00
+Bear Mountain,"California, United States",,0,0,0,0,0,0,34.2186,-116.8604,2026-03-24 13:50:45+00:00
+Big Sky,"Montana, United States",0.0,0,13,3,1,5,8,45.2811,-111.4302,2026-03-24 13:36:11+00:00
+Blue Mountain,"Ontario, Canada",0.0,0,2,4,0,0,0,44.5038,-80.3206,2026-03-24 12:25:09+00:00
+Blue Mountain,"Pennsylvania, United States",0.0,0,1,0,0,0,0,40.8128,-75.5116,2026-03-24 13:38:07+00:00
+Boyne Mountain,"Michigan, United States",1.0,3,39,0,0,0,1,45.1625,-84.9375,2026-03-24 12:56:51+00:00
+Brighton,"Utah, United States",0.0,0,0,0,0,7,5,40.5898,-111.5728,2026-03-24 12:56:16+00:00
+Camelback,"Pennsylvania, United States",0.0,0,1,1,0,0,0,41.0445,-75.3525,2026-03-24 13:30:12+00:00
+Carezza,"Bolzano, Italy",0.0,4,7,0,6,2,2,46.4126,11.6053,2026-03-24 13:00:31+00:00
+Cervino Ski Paradise,"Valle d'Aosta, Italy",0.0,6,39,8,3,1,10,45.9462,7.6931,2026-03-24 12:25:10+00:00
+Chamonix,"Haute-Savoie, France",0.0,6,20,7,23,4,8,45.8859,6.9339,2026-03-24 13:37:53+00:00
+Civetta,"Belluno, Italy",0.0,2,11,0,6,1,8,46.4153,12.0686,2026-03-24 13:42:55+00:00
+Copper Mountain,"Colorado, United States",1.0,1,4,6,0,3,0,39.4807,-106.1592,2026-03-24 12:42:02+00:00
+Coronet Peak,"Otago, New Zealand",0.0,0,0,0,0,0,0,-44.9214,168.737,2026-03-24 12:25:36+00:00
+Cortina,"Belluno, Italy",0.0,2,9,1,9,0,5,46.5401,12.0905,2026-03-24 12:25:17+00:00
+Corvara (Alta Badia),"Bolzano, Italy",0.0,2,8,0,10,0,6,46.5491,11.8987,2026-03-24 12:55:00+00:00
+Crystal Mountain,"Washington, United States",0.0,0,2,38,6,9,2,46.9294,-121.4944,2026-03-24 13:24:17+00:00
+Cypress Mountain,"British Columbia, Canada",,1,7,28,10,13,5,49.4001,-123.1979,2026-03-24 13:07:30+00:00
+Eldora,"Colorado, United States",0.0,0,8,7,0,0,2,39.9369,-105.5899,2026-03-24 13:42:23+00:00
+Espace San Bernardo,"Valle d'Aosta, Italy",0.0,4,16,6,11,3,7,45.694,6.9081,2026-03-24 13:48:21+00:00
+Furano,"Hokkaidô, Japan",1.0,12,2,1,0,3,4,43.3315,142.3318,2026-03-24 13:37:33+00:00
+Grands Montets,"Haute-Savoie, France",0.0,3,12,10,21,4,5,45.9597,6.9423,2026-03-24 13:31:11+00:00
+Grandvalira,"Encamp, Andorra",0.0,2,8,1,1,10,13,42.5538,1.6609,2026-03-24 13:25:01+00:00
+Hoshino Resorts Nekoma Mountain,"Hukusima, Japan",0.0,3,0,2,0,0,1,37.6027,140.0359,2026-03-24 12:42:03+00:00
+Jackson Hole,"Wyoming, United States",0.0,0,5,13,0,5,2,43.5934,-110.8523,2026-03-24 12:37:21+00:00
+June Mountain,"California, United States",,0,0,0,0,5,0,37.7441,-119.0698,2026-03-24 12:49:42+00:00
+Killington,"Vermont, United States",0.0,3,5,3,1,0,8,43.6107,-72.8113,2026-03-24 12:44:02+00:00
+Kirchberg,"Tirol, Austria",0.0,0,8,1,19,18,12,47.4281,12.3535,2026-03-24 13:42:50+00:00
+Kitzbühel,"Tirol, Austria",0.0,0,7,0,17,15,12,47.4623,12.4074,2026-03-24 13:43:02+00:00
+Kronplatz,"Bolzano, Italy",0.0,1,6,0,8,1,5,46.7393,11.9672,2026-03-24 12:55:47+00:00
+La Thuile,"Valle d'Aosta, Italy",0.0,5,16,6,10,2,8,45.693,6.9301,2026-03-24 13:06:41+00:00
+Lake Louise,"Alberta, Canada",0.0,13,15,17,12,5,2,51.4536,-116.1388,2026-03-24 13:16:01+00:00
+Le Tour,"Haute-Savoie, France",0.0,4,12,9,17,4,0,46.0084,6.9612,2026-03-24 12:24:21+00:00
+Les Houches,"Haute-Savoie, France",0.0,2,13,4,20,2,0,45.8829,6.7656,2026-03-24 12:30:48+00:00
+Loon Mountain,"New Hampshire, United States",3.0,9,4,5,2,1,8,44.0434,-71.6285,2026-03-24 12:31:55+00:00
+Lotte Arai,"Niigata, Japan",0.0,2,1,13,0,0,1,36.992,138.1499,2026-03-24 13:25:02+00:00
+Mammoth Mountain,"California, United States",,0,0,0,0,11,0,37.6368,-119.0246,2026-03-24 12:37:41+00:00
+Megeve,"Haute-Savoie, France",0.0,2,13,5,20,2,0,45.8504,6.6696,2026-03-24 12:25:00+00:00
+Mittersill,"Tirol, Austria",0.0,1,10,1,22,12,7,47.3125,12.3773,2026-03-24 12:24:41+00:00
+Mona Yongpyong,"Gang'weondo, South Korea",0.0,0,0,9,0,0,0,37.6351,128.6833,2026-03-24 12:32:31+00:00
+Mont Tremblant,"Quebec, Canada",0.0,11,8,5,6,9,3,46.2192,-74.5693,2026-03-24 13:03:23+00:00
+Monterosa Ski,"Valle d'Aosta, Italy",0.0,11,35,2,1,0,5,45.7657,7.7605,2026-03-24 12:48:18+00:00
+Mt Buller ,"Victoria, Australia",0.0,0,0,0,0,0,0,-37.1432,146.444,2026-03-24 13:14:21+00:00
+Mt Hutt,"Canterbury, New Zealand",0.0,0,0,1,0,0,0,-43.4908,171.5354,2026-03-24 12:48:37+00:00
+Mt. Bachelor,"Oregon, United States",,0,0,7,2,6,3,43.9907,-121.6815,2026-03-24 13:42:23+00:00
+Mt. Norquay Banff,"Alberta, Canada",0.0,1,2,13,9,2,0,51.201,-115.6067,2026-03-24 13:14:45+00:00
+Myoko Suginohara,"Niigata, Japan",0.0,2,1,12,0,0,8,36.867,138.1311,2026-03-24 12:42:49+00:00
+Niseko Annupuri,"Hokkaidô, Japan",0.0,6,0,2,1,3,4,42.8629,140.6561,2026-03-24 12:42:37+00:00
+Niseko Grand Hirafu,"Hokkaidô, Japan",0.0,4,2,4,0,2,4,42.8688,140.6823,2026-03-24 12:37:29+00:00
+Niseko Hanazono,"Hokkaidô, Japan",0.0,5,2,3,0,2,3,42.881,140.6775,2026-03-24 12:42:37+00:00
+Niseko Village,"Hokkaidô, Japan",0.0,9,1,12,0,2,4,42.8558,140.6697,2026-03-24 12:42:55+00:00
+Palisades Tahoe,"California, United States",0.0,0,0,0,0,14,1,39.1855,-120.2574,2026-03-24 12:42:55+00:00
+Panorama Mountain Resort,"British Columbia, Canada",0.0,4,6,13,4,2,2,50.4404,-116.2241,2026-03-24 13:14:59+00:00
+Passo Rolle,"Trento, Italy",2.0,9,14,0,10,2,8,46.29,11.7855,2026-03-24 13:02:59+00:00
+Pico,"Vermont, United States",0.0,3,5,3,1,0,10,43.648,-72.8393,2026-03-24 12:25:35+00:00
+Red Mountain Resort,"British Columbia, Canada",0.0,0,5,7,3,6,4,49.1028,-117.8407,2026-03-24 13:19:42+00:00
+Revelstoke,"British Columbia, Canada",1.0,9,14,20,8,7,3,50.9638,-118.1175,2026-03-24 13:15:13+00:00
+Schweitzer,"Idaho, United States",0.0,0,5,22,3,6,6,48.3767,-116.6225,2026-03-24 13:07:28+00:00
+Shiga Kogen Bunadaira,"Nagano, Japan",0.0,1,0,4,0,0,4,36.7203,138.5058,2026-03-24 12:31:31+00:00
+Shiga Kogen Giant,"Nagano, Japan",0.0,1,0,4,0,0,3,36.7163,138.4974,2026-03-24 13:42:43+00:00
+Shiga Kogen Hasuike,"Nagano, Japan",0.0,1,0,4,0,0,4,36.7143,138.4919,2026-03-24 13:48:51+00:00
+Shiga Kogen Higashitateyama,"Nagano, Japan",0.0,2,0,5,3,0,5,36.7262,138.516,2026-03-24 13:43:42+00:00
+Shiga Kogen Ichinose Diamond,"Nagano, Japan",0.0,3,0,5,1,0,5,36.7396,138.5096,2026-03-24 13:43:09+00:00
+Shiga Kogen Ichinose Family,"Nagano, Japan",0.0,2,0,5,3,0,7,36.7349,138.5194,2026-03-24 12:24:05+00:00
+Shiga Kogen Ichinose Yamanokami,"Nagano, Japan",0.0,3,0,5,1,0,5,36.7437,138.5066,2026-03-24 13:43:41+00:00
+Shiga Kogen Kidoike,"Nagano, Japan",0.0,1,0,5,4,0,5,36.6925,138.4968,2026-03-24 13:43:35+00:00
+Shiga Kogen Kumanoyu,"Nagano, Japan",0.0,1,0,5,5,0,7,36.6772,138.4962,2026-03-24 12:31:16+00:00
+Shiga Kogen Maruike,"Nagano, Japan",0.0,1,0,4,0,0,4,36.715,138.4894,2026-03-24 13:43:48+00:00
+Shiga Kogen Nishitateyama,"Nagano, Japan",0.0,1,0,4,0,0,4,36.7274,138.5001,2026-03-24 13:42:54+00:00
+Shiga Kogen Okushiga Kogen,"Nagano, Japan",0.0,3,0,8,1,0,5,36.7719,138.5157,2026-03-24 12:43:42+00:00
+Shiga Kogen Shibutoge,"Gunma, Japan",0.0,2,1,6,13,3,8,36.6684,138.5316,2026-03-24 12:43:42+00:00
+Shiga Kogen Sun Valley,"Nagano, Japan",0.0,1,0,4,0,0,3,36.715,138.4851,2026-03-24 13:43:28+00:00
+Shiga Kogen Takamagahara Mammoth,"Nagano, Japan",0.0,2,0,5,3,0,5,36.7298,138.5137,2026-03-24 13:43:36+00:00
+Shiga Kogen Tannenomori Okojo,"Nagano, Japan",0.0,2,0,5,2,0,5,36.7332,138.5152,2026-03-24 12:43:01+00:00
+Shiga Kogen Terakoya,"Nagano, Japan",0.0,3,0,6,5,1,6,36.7282,138.529,2026-03-24 13:43:49+00:00
+Shiga Kogen Yakebitaiyama,"Nagano, Japan",0.0,3,0,7,3,0,5,36.7566,138.5185,2026-03-24 13:43:15+00:00
+Shiga Kogen Yokoteyama,"Nagano, Japan",0.0,1,0,5,4,0,7,36.6817,138.503,2026-03-24 12:31:55+00:00
+Sierra-at-Tahoe,"California, United States",,0,0,0,0,13,1,38.7935,-120.0807,2026-03-24 12:48:02+00:00
+Snow Summit,"California, United States",,0,0,0,0,0,0,34.2251,-116.8889,2026-03-24 12:32:02+00:00
+Snowbird,"Utah, United States",0.0,0,0,0,0,9,6,40.5665,-111.6523,2026-03-24 13:00:16+00:00
+Snowshoe,"West Virginia, United States",0.0,0,18,0,0,0,0,38.4157,-79.9952,2026-03-24 13:31:35+00:00
+Solitude,"Utah, United States",0.0,0,0,0,0,3,4,40.6163,-111.6032,2026-03-24 13:06:54+00:00
+Steamboat,"Colorado, United States",0.0,0,1,4,0,2,0,40.4537,-106.7587,2026-03-24 13:25:33+00:00
+Stratton,"Vermont, United States",0.0,0,2,2,0,0,3,43.103,-72.9097,2026-03-24 13:43:08+00:00
+Sugarbush,"Vermont, United States",0.0,8,4,2,2,5,9,44.1289,-72.9195,2026-03-24 13:31:08+00:00
+Sugarloaf,"Maine, United States",2.0,22,1,3,2,3,9,45.035,-70.3145,2026-03-24 13:13:14+00:00
+Summit Central at Snoqualmie,"Washington, United States",,0,24,66,4,2,1,47.4018,-121.4217,2026-03-24 12:32:10+00:00
+Summit East at Snoqualmie,"Washington, United States",,0,3,66,3,1,1,47.3885,-121.4023,2026-03-24 13:24:23+00:00
+Summit West at Snoqualmie,"Washington, United States",0.0,0,23,66,4,1,1,47.4219,-121.4204,2026-03-24 13:24:23+00:00
+Sun Peaks Resort,"British Columbia, Canada",0.0,2,7,6,4,2,1,50.9,-119.8803,2026-03-24 12:25:36+00:00
+Sun Valley,"Idaho, United States",0.0,0,0,0,0,6,1,43.6651,-114.3972,2026-03-24 12:48:23+00:00
+Sunday River,"Maine, United States",2.0,18,2,4,0,1,10,44.46,-70.8738,2026-03-24 12:44:02+00:00
+Taos,"New Mexico, United States",0.0,0,0,0,0,0,0,36.5823,-105.4517,2026-03-24 12:37:29+00:00
+The Highlands,"Michigan, United States",0.0,0,5,13,1,0,2,45.4716,-84.944,2026-03-24 12:49:02+00:00
+The Remarkables,"Otago, New Zealand",0.0,0,0,0,0,0,0,-45.0589,168.8132,2026-03-24 13:00:06+00:00
+Thredbo,"New South Wales, Australia",0.0,0,0,0,2,0,0,-36.4929,148.301,2026-03-24 12:25:25+00:00
+Valle Nevado,"Regíon Metropolitana de Santiago, Chile",0.0,12,0,0,0,0,0,-33.3404,-70.2495,2026-03-24 13:06:56+00:00
+Winter Park,"Colorado, United States",0.0,0,8,6,0,2,2,39.8631,-105.7736,2026-03-24 12:37:53+00:00
+Yunding Snow Park,"Hebei, China",0.0,0,0,1,0,0,0,40.9652,115.3066,2026-03-24 12:55:42+00:00
+Zao Onsen,"Yamagata, Japan",0.0,3,0,1,0,0,3,38.1496,140.4045,2026-03-24 12:56:42+00:00
+Zermatt,"Wallis, Switzerland",0.0,4,9,4,4,1,11,45.9935,7.7563,2026-03-24 13:12:35+00:00
