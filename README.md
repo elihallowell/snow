@@ -1,4 +1,7 @@
 # snow
+
+**Use "snowreport_v2.ipynb" for working map of forecast and snow reports 4/2/26
+
 This is the repo for my side projects concerning all things skiing, snow, and weather!!
 The main goal of the code in this repo is to accurately, quickly, and efiiciently display ski area snow forecasting and reporting data for free!
 winter 2026
